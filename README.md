@@ -42,7 +42,7 @@ My work spans **full-stack systems, ranging from frontend-heavy user experiences
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" height="30" width="30" />
 </a>
 <a href="https://www.hackerearth.com/@ersachinsaurav" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/640px-HackerEarth_logo.png" alt="HackerEarth" height="30" width="30" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="HackerEarth" height="30" width="30" />
 </a>
 </p>
 
